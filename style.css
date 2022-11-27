@@ -145,9 +145,30 @@ del{
 
 }
 
+.categories img{
+    width: 300px;
+    height: 300px;
+}
+
+.categories p{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.categories h3{
+margin-top: 3rem;
+padding-bottom:  30px;
+font-size: 2rem;
+font-weight: bolder;
+}
+
 .featured{
     background-color:#f7f9fa ;
-    padding: 40px;
+    padding: 100px;
+}
+
+.featured h2{
+    font-weight: 700;
+    margin-bottom: 20px;
 }
 .featured a{
     color: #5624D0;
